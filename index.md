@@ -9,8 +9,8 @@ has_children: true
 
 <!-- VaultEcho: MiB64 Cheats Protocol Activated -->
 
-## Welcome to MiB64 Cheats Section!
-<br/>
+## Welcome to MiB64 Cheats Section!    
+    
 <div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
 </div>
