@@ -7,6 +7,23 @@ description: Learn how to activate and manage cheat codes in MiB64.
 ---
 
 <style>
+.zoom-on-hover {
+  display: inline-block;
+  position: relative;
+}
+
+.zoom-on-hover img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  transform-origin: left center;
+  display: block;
+}
+
+.zoom-on-hover:hover img {
+  transform: scale(1.5);
+  z-index: 10;
+}
+
 .zoom-pair {
   display: flex;
   gap: 12px;
@@ -18,17 +35,12 @@ description: Learn how to activate and manage cheat codes in MiB64.
   position: relative;
 }
 
-.zoom-pair .zoom-on-hover img {
-  position: relative;
-  z-index: 1;
-}
-
 .zoom-pair .zoom-on-hover:first-child:hover img {
-  z-index: 9999; /* force left image to top */
+  z-index: 20;
 }
 
 .zoom-pair .zoom-on-hover:last-child:hover img {
-  z-index: 100; /* right image stays behind */
+  z-index: 10;
 }
 </style>
 
