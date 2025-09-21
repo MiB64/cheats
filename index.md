@@ -9,23 +9,23 @@ has_children: true
 <style>
 .zoom-on-hover {
   display: inline-block;
-  overflow: visible; /* allow zoom to spill out */
   position: relative;
 }
 
 .zoom-on-hover img {
-  width: 300px; /* fixed thumbnail size */
+  width: 300px; /* fixed thumbnail */
   transition: transform 0.3s ease;
   cursor: zoom-in;
   transform-origin: center;
 }
 
 .zoom-on-hover img:hover {
-  transform: scale(1.5); /* zoom beyond 300px */
+  transform: scale(1.5); /* zooms to 450px */
+  position: absolute;
+  top: 0;
+  left: 0;
   z-index: 10;
-  position: relative;
 }
-
 </style>
 
 
