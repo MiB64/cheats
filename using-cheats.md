@@ -6,6 +6,26 @@ parent: MiB64 Cheats
 description: Learn how to activate and manage cheat codes in MiB64.
 ---
 
+<style>
+.zoom-on-hover {
+  display: inline-block;
+  position: relative;
+}
+
+.zoom-on-hover img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  transform-origin: left center;
+  display: block;
+}
+
+.zoom-on-hover:hover img {
+  transform: scale(1.5);
+  z-index: 10;
+}
+</style>
+
+
 ##  <a name="using-cheats">Using Cheats</a>
 
 To use cheats in MiB64, follow these steps:
@@ -15,10 +35,10 @@ To use cheats in MiB64, follow these steps:
 3. Tick the cheats you want to enable.
 4. Start your game and enjoy the effects.
 
-<a href="/cheats/assets/images/01/Cheat11.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
-</a>
-<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+</div>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Cheat11 Interactive Image -->
 
 ---
@@ -27,15 +47,15 @@ To use cheats in MiB64, follow these steps:
 
 Some cheats are grouped under expandable categories. Look for a **+** icon to reveal them.
 
-<a href="/cheats/assets/images/01/Cheat21.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat21-245x300.png" alt="Group Cheat Collapsed" width="245" />
-</a>
+</div>
 
-<a href="/cheats/assets/images/01/Cheat31.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat31-245x300.png" alt="Group Cheat Expanded" width="245" />
-</a>
+</div>
 
-<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Cheat21 & Cheat31 Interactive Images -->
 
 ---
@@ -44,15 +64,15 @@ Some cheats are grouped under expandable categories. Look for a **+** icon to re
 
 Some cheats offer multiple selectable values. Double-click the cheat name to open the value selector.
 
-<a href="/cheats/assets/images/01/Cheat41.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat41-245x300.png" alt="Multi-Choice Cheat Collapsed" width="245" />
-</a>
+</div>
 
-<a href="/cheats/assets/images/01/Cheat51.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat51-245x300.png" alt="Multi-Choice Cheat Expanded" width="245" />
-</a>
+</div>
 
-<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Cheat41 & Cheat51 Interactive Images -->
 
 ---
@@ -61,15 +81,15 @@ Some cheats offer multiple selectable values. Double-click the cheat name to ope
 
 Once the value selector opens, choose your desired option and click **OK**.
 
-<a href="/cheats/assets/images/01/Cheat61.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat61-236x300.png" alt="Value Selector" width="236" />
-</a>
+</div>
 
-<a href="/cheats/assets/images/01/Cheat71.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat71-236x300.png" alt="Value Confirmation" width="236" />
-</a>
+</div>
 
-<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Cheat61 & Cheat71 Interactive Images -->
 
 ---
@@ -78,11 +98,11 @@ Once the value selector opens, choose your desired option and click **OK**.
 
 Once selected, tick the box next to the cheat to activate it.
 
-<a href="/cheats/assets/images/01/Cheat81.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat81-236x300.png" alt="Cheat Activation" width="236" />
-</a>
+</div>
 
-<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Cheat81 Interactive Image -->
 
 ---

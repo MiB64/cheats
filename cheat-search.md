@@ -6,7 +6,23 @@ parent: MiB64 Cheats
 description: Learn how to prepare and perform cheat searches in MiB64.
 ---
 
----
+<style>
+.zoom-on-hover {
+  display: inline-block;
+  position: relative;
+}
+
+.zoom-on-hover img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  transform-origin: left center;
+  display: block;
+}
+.zoom-on-hover:hover img {
+  transform: scale(1.5);
+  z-index: 10;
+}
+</style>
 
 ## Cheat Search Navigation
 
@@ -28,10 +44,10 @@ Before searching for cheats in MiB64, ensure the following:
 - You’ve selected the correct region (NTSC or PAL).
 - You’ve enabled the Memory Pak if required.
 
-<a href="/cheats/assets/images/01/Browser5b1.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Browser5b1-300x259.png" alt="Cheat Search Browser" width="300" />
-</a>
-<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+</div>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Browser5b1 Interactive Image -->
 
 To ensure live updates work correctly, disable the “Pause emulation when window is not active” option.

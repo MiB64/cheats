@@ -6,6 +6,24 @@ parent: MiB64 Cheats
 description: Learn how to remove cheat codes from MiB64.
 ---
 
+<style>
+.zoom-on-hover {
+  display: inline-block;
+  position: relative;
+}
+
+.zoom-on-hover img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  transform-origin: left center;
+  display: block;
+}
+.zoom-on-hover:hover img {
+  transform: scale(1.5);
+  z-index: 10;
+}
+</style>
+
 ## <a name="deleting-cheats">Deleting Cheats</a>
 
 To delete a cheat code in MiB64:
@@ -14,15 +32,15 @@ To delete a cheat code in MiB64:
 2. Right-click and choose **Delete Cheat**.
 3. Confirm the deletion by pressing **Yes**.
 
-<a href="/cheats/assets/images/01/toedit13.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/toedit13-236x300.png" alt="Delete Cheat Prompt" width="236" />
-</a>
+</div>
 
-<a href="/cheats/assets/images/01/Del21.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Del21-255x300.png" alt="Delete Confirmation" width="255" />
-</a>
+</div>
 
-<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: toedit13 & Del21 Interactive Images -->
 
 ---
@@ -35,19 +53,19 @@ Option cheats can be deleted the same way:
 2. Right-click and choose **Delete Cheat**.
 3. Confirm the deletion.
 
-<a href="/cheats/assets/images/01/toedit31-1.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/toedit31-1-236x300.png" alt="Delete Option Cheat 1" width="236" />
-</a>
+</div>
 
-<a href="/cheats/assets/images/01/Del31.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Del31-239x300.png" alt="Delete Option Cheat 2" width="239" />
-</a>
+</div>
 
-<a href="/cheats/assets/images/01/Del41.png" target="_blank">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Del41-252x300.png" alt="Delete Option Cheat 3" width="252" />
-</a>
+</div>
 
-<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: toedit31-1, Del31 & Del41 Interactive Images -->
 
 ---
