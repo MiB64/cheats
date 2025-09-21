@@ -17,8 +17,8 @@ To use cheats in MiB64, follow these steps:
 3. Tick the cheats you want to enable.
 4. Start your game and enjoy the effects.
 
-<a href="./assets/images/01/Cheat11.png" target="_blank">
-  <img src="./assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
+<a href="./cheats/assets/images/01/Cheat11.png" target="_blank">
+  <img src="./cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Using Cheats Image -->

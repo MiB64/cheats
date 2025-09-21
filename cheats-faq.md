@@ -254,15 +254,15 @@ So the emulator will repeat this code `21` times, jumping `4` hex each time.
 
 #### Numbers 0–255 (Dec) → 00–FF (Hex)
 
-<a href="./assets/images/01/hex_1_0-255.png" target="_blank">
-  <img src="./assets/images/01/hex_1_0-255-300x166.png" alt="Hex Chart 0–255" width="300" />
+<a href="./cheats/assets/images/01/hex_1_0-255.png" target="_blank">
+  <img src="./cheats/assets/images/01/hex_1_0-255-300x166.png" alt="Hex Chart 0–255" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 
 #### Numbers 256–512 (Dec) → 100–200 (Hex)
 
-<a href="./assets/images/01/hex_2_256-512.png" target="_blank">
-  <img src="./assets/images/01/hex_2_256-512-300x166.png" alt="Hex Chart 256–512" width="300" />
+<a href="./cheats/assets/images/01/hex_2_256-512.png" target="_blank">
+  <img src="./cheats/assets/images/01/hex_2_256-512-300x166.png" alt="Hex Chart 256–512" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 

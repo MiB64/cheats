@@ -20,8 +20,8 @@ MiB64 allows you to add cheats either through the GUI or manually via the `.cdb`
 3. Click **Add Cheat**.
 4. Enter a name and code.
 
-<a href="./assets/images/01/Add11.png" target="_blank">
-  <img src="./assets/images/01/Add11-236x300.png" alt="Add Cheat GUI" width="300" />
+<a href="./cheats/assets/images/01/Add11.png" target="_blank">
+  <img src="./cheats/assets/images/01/Add11-236x300.png" alt="Add Cheat GUI" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Add11 Interactive Image -->

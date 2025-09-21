@@ -20,8 +20,8 @@ MiB64 allows you to delete cheats either through the GUI or manually via the `.c
 3. Select the cheat you want to remove.
 4. Click **Delete Cheat**.
 
-<a href="./assets/images/01/Del21.png" target="_blank">
-  <img src="./assets/images/01/Del21-255x300.png" alt="Delete Cheat GUI" width="300" />
+<a href="./cheats/assets/images/01/Del21.png" target="_blank">
+  <img src="./cheats/assets/images/01/Del21-255x300.png" alt="Delete Cheat GUI" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Del21 Interactive Image -->

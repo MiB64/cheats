@@ -15,8 +15,8 @@ Before searching for cheats in MiB64, ensure the following:
 - You’ve selected the correct region (NTSC or PAL).
 - You’ve enabled the Memory Pak if required.
 
-<a href="./assets/images/01/Browser5b1.png" target="_blank">
-  <img src="./assets/images/01/Browser5b1-300x259.png" alt="Cheat Search Browser" width="300" />
+<a href="./cheats/assets/images/01/Browser5b1.png" target="_blank">
+  <img src="./cheats/assets/images/01/Browser5b1-300x259.png" alt="Cheat Search Browser" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Browser5b1 Interactive Image -->

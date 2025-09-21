@@ -3,5 +3,5 @@ has_toc: false
 markdown: kramdown
 
 just_the_docs:
-  logo: "/assets/images/mib64_icon_main_100x100l.png"
+  logo: "/cheats/assets/images/mib64_icon_main_100x100l.png"
   nav_enabled: true

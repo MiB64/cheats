@@ -21,8 +21,8 @@ MiB64 allows you to edit cheats either through the GUI or manually via the `.cdb
 4. Click **Edit Cheat**.
 5. Modify the name or code as needed.
 
-<a href="./assets/images/01/Edit11.png" target="_blank">
-  <img src="./assets/images/01/Edit11-237x300.png" alt="Edit Cheat GUI" width="300" />
+<a href="./cheats/assets/images/01/Edit11.png" target="_blank">
+  <img src="./cheats/assets/images/01/Edit11-237x300.png" alt="Edit Cheat GUI" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Edit11 Interactive Image -->
