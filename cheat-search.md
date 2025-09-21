@@ -6,7 +6,21 @@ parent: MiB64 Cheats
 description: Learn how to prepare and perform cheat searches in MiB64.
 ---
 
-## 🔍 <a name="preparing-to-search">Preparing to Search</a>
+---
+
+## Cheat Search Navigation
+
+Jump to:
+
+- [Preparing to Search](#preparing-to-search)  
+- [Known Cheat Search](#known-cheat-search)  
+- [Unknown Cheat Search](#unknown-cheat-search)  
+- [Tips](#tips)  
+- [Example Workflow](#example-workflow)
+
+---
+
+## <a name="preparing-to-search">Preparing to Search</a>
 
 Before searching for cheats in MiB64, ensure the following:
 
@@ -28,7 +42,7 @@ To ensure live updates work correctly, disable the “Pause emulation when windo
 
 ---
 
-## 🧠 <a name="known-cheat-search">Known Cheat Search</a>
+## <a name="known-cheat-search">Known Cheat Search</a>
 
 Use this method if you already know the cheat code or its effect.
 
@@ -44,7 +58,7 @@ Use this method if you already know the cheat code or its effect.
 
 ---
 
-### 🧪 Example
+### Example
 
 Searching for:
 ```text
@@ -60,7 +74,7 @@ You can then add it directly to the cheat list.
 
 ---
 
-## 🧪 <a name="unknown-cheat-search">Unknown Cheat Search</a>
+## <a name="unknown-cheat-search">Unknown Cheat Search</a>
 
 Use this method to discover new cheats by scanning memory.
 
@@ -82,7 +96,7 @@ Use this method to discover new cheats by scanning memory.
 
 ---
 
-### 🧠 Tips
+### Tips
 
 - Use **Equal To** when searching for static values.
 - Use **Greater/Less Than** when tracking dynamic changes.
@@ -90,7 +104,7 @@ Use this method to discover new cheats by scanning memory.
 
 ---
 
-### 🧾 Example Workflow
+### Example Workflow
 
 1. Start with full health.
 2. Scan for **Equal To 100**.

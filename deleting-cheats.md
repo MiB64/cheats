@@ -6,7 +6,7 @@ parent: MiB64 Cheats
 description: Learn how to remove cheat codes from MiB64.
 ---
 
-## 🗑️ <a name="deleting-cheats">Deleting Cheats</a>
+## <a name="deleting-cheats">Deleting Cheats</a>
 
 To delete a cheat code in MiB64:
 
@@ -27,7 +27,7 @@ To delete a cheat code in MiB64:
 
 ---
 
-### 🧪 Deleting Option Cheats
+### Deleting Option Cheats
 
 Option cheats can be deleted the same way:
 
@@ -52,7 +52,7 @@ Option cheats can be deleted the same way:
 
 ---
 
-### 🧠 Notes
+### Notes
 
 - Deleted cheats are permanently removed from the database.
 - If you accidentally delete a cheat, you’ll need to re-enter it manually.

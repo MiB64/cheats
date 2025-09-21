@@ -6,7 +6,7 @@ parent: MiB64 Cheats
 description: Learn how to activate and manage cheat codes in MiB64.
 ---
 
-## 🕹️ <a name="using-cheats">Using Cheats</a>
+##  <a name="using-cheats">Using Cheats</a>
 
 To use cheats in MiB64, follow these steps:
 
@@ -23,7 +23,7 @@ To use cheats in MiB64, follow these steps:
 
 ---
 
-### 🧩 Group Cheats
+### Group Cheats
 
 Some cheats are grouped under expandable categories. Look for a **+** icon to reveal them.
 
@@ -40,7 +40,7 @@ Some cheats are grouped under expandable categories. Look for a **+** icon to re
 
 ---
 
-### 🧪 Multi-Choice Cheats
+### Multi-Choice Cheats
 
 Some cheats offer multiple selectable values. Double-click the cheat name to open the value selector.
 
@@ -57,7 +57,7 @@ Some cheats offer multiple selectable values. Double-click the cheat name to ope
 
 ---
 
-### 🧪 Value Selection Dialog
+### Value Selection Dialog
 
 Once the value selector opens, choose your desired option and click **OK**.
 
@@ -74,7 +74,7 @@ Once the value selector opens, choose your desired option and click **OK**.
 
 ---
 
-### ✅ Cheat Activation
+### Cheat Activation
 
 Once selected, tick the box next to the cheat to activate it.
 
@@ -87,7 +87,7 @@ Once selected, tick the box next to the cheat to activate it.
 
 ---
 
-### 🧠 Notes
+### Notes
 
 - Some cheats require a Memory Pak to function.  
   Go to **Options → Configure Controller Plugin** to ensure it's enabled.
@@ -100,7 +100,7 @@ Once selected, tick the box next to the cheat to activate it.
 
 ---
 
-### 🧪 Example Manual Entry
+### Example Manual Entry
 
 ```text
 Name: Test
@@ -124,7 +124,7 @@ Delete the old entry, save the file, and restart MiB64.
 
 ---
 
-### 🧷 Persistent Cheats
+### Persistent Cheats
 
 To make MiB64 remember cheats between sessions:
 

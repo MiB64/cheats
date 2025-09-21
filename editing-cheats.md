@@ -6,7 +6,7 @@ parent: MiB64 Cheats
 description: Learn how to modify existing cheat codes in MiB64.
 ---
 
-## ✏️ <a name="editing-cheats">Editing Cheats</a>
+## <a name="editing-cheats">Editing Cheats</a>
 
 To edit a cheat code in MiB64:
 
@@ -28,7 +28,7 @@ To edit a cheat code in MiB64:
 
 ---
 
-### 🧠 Notes
+### Notes
 
 - You can edit both normal and option-based cheats.
 - Always confirm formatting before clicking **Update Cheat**.
@@ -46,7 +46,7 @@ To edit a cheat code in MiB64:
 
 ---
 
-### 🧪 Editing Option Cheats
+### Editing Option Cheats
 
 Option cheats can be edited the same way:
 

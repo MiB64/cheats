@@ -9,7 +9,7 @@ has_children: true
 
 <!-- VaultEcho: MiB64 Cheats Protocol Activated -->
 
-## 🎮 Welcome to MiB64 Cheats Section!
+## Welcome to MiB64 Cheats Section!
 
 <a href="/cheats/assets/images/01/Cheat11.png" target="_blank">
   <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
@@ -22,7 +22,7 @@ Here you’ll find clear and concise assistance for all cheat-related operations
 
 ---
 
-### 📂 Quick Section Links
+###  Quick Section Links
 
 - [Using Cheats](./using-cheats.md)
 - [Adding Cheats](./adding-cheats.md)
@@ -36,7 +36,7 @@ Here you’ll find clear and concise assistance for all cheat-related operations
 
 ---
 
-### 🧭 Navigation Notes
+### Navigation Notes
 
 Each section above is a standalone `.md` file, allowing direct access, clean routing, and modular updates.  
 The Cheat Search file now includes all three search methods via internal anchors.  

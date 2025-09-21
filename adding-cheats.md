@@ -6,7 +6,7 @@ parent: MiB64 Cheats
 description: Learn how to manually add new cheat codes to MiB64.
 ---
 
-## ➕ <a name="adding-cheats">Adding Cheats</a>
+## <a name="adding-cheats">Adding Cheats</a>
 
 You can add cheats to MiB64 whether a game is loaded or not. Here's how:
 
@@ -28,7 +28,7 @@ You can add cheats to MiB64 whether a game is loaded or not. Here's how:
 
 ---
 
-### 🧠 Notes
+### Notes
 
 - You can add up to **100 codes per cheat**.
 - Use the format `xxxxxxxx xxxx` with no trailing spaces.
@@ -55,7 +55,7 @@ You can add cheats to MiB64 whether a game is loaded or not. Here's how:
 
 ---
 
-### 🧪 Code Extensions
+### Code Extensions
 
 You can add modifier codes like:
 
@@ -78,7 +78,7 @@ Once entered, the **Value Label** box becomes available.
 
 ---
 
-### 🧷 Group Cheats
+### Group Cheats
 
 You can group cheats like:
 
