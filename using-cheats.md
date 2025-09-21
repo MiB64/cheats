@@ -1,10 +1,11 @@
 ---
 title: Using Cheats
 layout: default
-permalink: /cheats/using-cheats/
 nav_order: 2
+parent: MiB64 Cheats
 description: Learn how to activate and manage cheat codes in MiB64.
 ---
+
 
 
 ## 🕹️ <a name="using-cheats">Using Cheats</a>

@@ -1,8 +1,8 @@
 ---
 title: Cheat Search
 layout: default
-permalink: /cheats/cheat-search/
 nav_order: 6
+parent: MiB64 Cheats
 description: Learn how to prepare and perform cheat searches in MiB64.
 ---
 

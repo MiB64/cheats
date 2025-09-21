@@ -1,8 +1,8 @@
 ---
 title: Deleting Cheats
 layout: default
-permalink: /cheats/deleting-cheats/
 nav_order: 5
+parent: MiB64 Cheats
 description: Learn how to remove cheat codes from MiB64 using the GUI or manually.
 ---
 

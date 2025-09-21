@@ -1,8 +1,8 @@
 ---
 title: Editing Cheats
 layout: default
-permalink: /cheats/editing-cheats/
 nav_order: 4
+parent: MiB64 Cheats
 description: Learn how to modify existing cheat codes in MiB64 using the GUI or manually.
 ---
 

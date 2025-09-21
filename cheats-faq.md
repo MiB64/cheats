@@ -1,8 +1,8 @@
 ---
 title: Cheats FAQ
 layout: default
-permalink: /cheats/cheats-faq/
 nav_order: 7
+parent: MiB64 Cheats
 description: Answers to common questions about cheat codes, editing, regions, and MiB64 functionality.
 ---
 

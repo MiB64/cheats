@@ -1,8 +1,8 @@
 ---
 title: Adding Cheats
 layout: default
-permalink: /cheats/adding-cheats/
 nav_order: 3
+parent: MiB64 Cheats
 description: Learn how to manually or visually add cheat codes to MiB64.
 ---
 
