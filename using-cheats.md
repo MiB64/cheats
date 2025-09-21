@@ -23,10 +23,28 @@ description: Learn how to activate and manage cheat codes in MiB64.
   transform: scale(1.5);
   z-index: 10;
 }
+
+.zoom-pair {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.zoom-pair .zoom-on-hover {
+  position: relative;
+}
+
+.zoom-pair .zoom-on-hover:first-child:hover img {
+  z-index: 20;
+}
+
+.zoom-pair .zoom-on-hover:last-child:hover img {
+  z-index: 10;
+}
 </style>
 
-
-##  <a name="using-cheats">Using Cheats</a>
+## <a name="using-cheats">Using Cheats</a>
 
 To use cheats in MiB64, follow these steps:
 
@@ -47,12 +65,14 @@ To use cheats in MiB64, follow these steps:
 
 Some cheats are grouped under expandable categories. Look for a **+** icon to reveal them.
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat21.png" alt="Group Cheat Collapsed" width="245" />
-</div>
+<div class="zoom-pair">
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Cheat21.png" alt="Group Cheat Collapsed" width="245" />
+  </div>
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat31.png" alt="Group Cheat Expanded" width="245" />
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Cheat31.png" alt="Group Cheat Expanded" width="245" />
+  </div>
 </div>
 
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
@@ -64,12 +84,14 @@ Some cheats are grouped under expandable categories. Look for a **+** icon to re
 
 Some cheats offer multiple selectable values. Double-click the cheat name to open the value selector.
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat41.png" alt="Multi-Choice Cheat Collapsed" width="245" />
-</div>
+<div class="zoom-pair">
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Cheat41.png" alt="Multi-Choice Cheat Collapsed" width="245" />
+  </div>
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat51.png" alt="Multi-Choice Cheat Expanded" width="245" />
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Cheat51.png" alt="Multi-Choice Cheat Expanded" width="245" />
+  </div>
 </div>
 
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
@@ -81,12 +103,14 @@ Some cheats offer multiple selectable values. Double-click the cheat name to ope
 
 Once the value selector opens, choose your desired option and click **OK**.
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat61.png" alt="Value Selector" width="236" />
-</div>
+<div class="zoom-pair">
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Cheat61.png" alt="Value Selector" width="236" />
+  </div>
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat71.png" alt="Value Confirmation" width="236" />
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Cheat71.png" alt="Value Confirmation" width="236" />
+  </div>
 </div>
 
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
@@ -101,7 +125,6 @@ Once selected, tick the box next to the cheat to activate it.
 <div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat81.png" alt="Cheat Activation" width="236" />
 </div>
-
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Cheat81 Interactive Image -->
 

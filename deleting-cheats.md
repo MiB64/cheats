@@ -18,8 +18,28 @@ description: Learn how to remove cheat codes from MiB64.
   transform-origin: left center;
   display: block;
 }
+
 .zoom-on-hover:hover img {
   transform: scale(1.5);
+  z-index: 10;
+}
+
+.zoom-pair {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.zoom-pair .zoom-on-hover {
+  position: relative;
+}
+
+.zoom-pair .zoom-on-hover:first-child:hover img {
+  z-index: 20;
+}
+
+.zoom-pair .zoom-on-hover:last-child:hover img {
   z-index: 10;
 }
 </style>
@@ -32,12 +52,13 @@ To delete a cheat code in MiB64:
 2. Right-click and choose **Delete Cheat**.
 3. Confirm the deletion by pressing **Yes**.
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/toedit13-236x300.png" alt="Delete Cheat Prompt" width="236" />
-</div>
-
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Del21-255x300.png" alt="Delete Confirmation" width="255" />
+<div class="zoom-pair">
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/toedit13.png" alt="Delete Cheat Prompt" width="236" />
+  </div>
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Del21.png" alt="Delete Confirmation" width="255" />
+  </div>
 </div>
 
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
@@ -53,16 +74,17 @@ Option cheats can be deleted the same way:
 2. Right-click and choose **Delete Cheat**.
 3. Confirm the deletion.
 
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/toedit31-1-236x300.png" alt="Delete Option Cheat 1" width="236" />
+<div class="zoom-pair">
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/toedit31-1.png" alt="Delete Option Cheat 1" width="236" />
+  </div>
+  <div class="zoom-on-hover">
+    <img src="/cheats/assets/images/01/Del31.png" alt="Delete Option Cheat 2" width="239" />
+  </div>
 </div>
 
 <div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Del31-239x300.png" alt="Delete Option Cheat 2" width="239" />
-</div>
-
-<div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Del41-252x300.png" alt="Delete Option Cheat 3" width="252" />
+  <img src="/cheats/assets/images/01/Del41.png" alt="Delete Option Cheat 3" width="252" />
 </div>
 
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>

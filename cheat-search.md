@@ -18,8 +18,28 @@ description: Learn how to prepare and perform cheat searches in MiB64.
   transform-origin: left center;
   display: block;
 }
+
 .zoom-on-hover:hover img {
   transform: scale(1.5);
+  z-index: 10;
+}
+
+.zoom-pair {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.zoom-pair .zoom-on-hover {
+  position: relative;
+}
+
+.zoom-pair .zoom-on-hover:first-child:hover img {
+  z-index: 20;
+}
+
+.zoom-pair .zoom-on-hover:last-child:hover img {
   z-index: 10;
 }
 </style>
@@ -45,7 +65,7 @@ Before searching for cheats in MiB64, ensure the following:
 - You’ve enabled the Memory Pak if required.
 
 <div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Browser5b1-300x259.png" alt="Cheat Search Browser" width="300" />
+  <img src="/cheats/assets/images/01/Browser5b1.png" alt="Cheat Search Browser" width="300" />
 </div>
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Browser5b1 Interactive Image -->
