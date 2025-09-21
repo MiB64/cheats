@@ -20,11 +20,12 @@ has_children: true
   display: block;
 }
 
-.zoom-on-hover img:hover {
+.zoom-on-hover:hover img {
   transform: scale(1.5);
   z-index: 10;
 }
 </style>
+
 
 
 <!-- VaultEcho: MiB64 Cheats Protocol Activated -->
