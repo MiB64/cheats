@@ -30,7 +30,7 @@ has_children: true
 ## Welcome to MiB64 Cheats Section!    
     
 <div class="zoom-on-hover">
-  <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
+  <img src="/cheats/assets/images/01/Cheat11.png" alt="Cheat Menu" width="300" />
 </div>
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
 <!-- ClauseEcho: Using Cheats Image -->
