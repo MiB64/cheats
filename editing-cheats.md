@@ -3,69 +3,68 @@ title: Editing Cheats
 layout: default
 nav_order: 4
 parent: MiB64 Cheats
-description: Learn how to modify existing cheat codes in MiB64 using the GUI or manually.
+description: Learn how to modify existing cheat codes in MiB64.
 ---
-
 
 ## ✏️ <a name="editing-cheats">Editing Cheats</a>
 
-MiB64 allows you to edit cheats either through the GUI or manually via the `.cdb` file.
+To edit a cheat code in MiB64:
 
----
+1. Highlight the cheat by clicking once on it.
+2. Right-click and choose **Edit Cheat**.
+3. Make your changes.
+4. Click **Update Cheat** to save.
 
-### 🧪 Editing via GUI
-
-1. Open MiB64 and load your ROM.
-2. Go to the Cheats menu.
-3. Select the cheat you want to edit.
-4. Click **Edit Cheat**.
-5. Modify the name or code as needed.
-
-<a href="./cheats/assets/images/01/Edit11.png" target="_blank">
-  <img src="./cheats/assets/images/01/Edit11-237x300.png" alt="Edit Cheat GUI" width="300" />
+<a href="/cheats/assets/images/01/Edit11.png" target="_blank">
+  <img src="/cheats/assets/images/01/Edit11-237x300.png" alt="Edit Cheat Dialog 1" width="237" />
 </a>
-<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
-<!-- ClauseEcho: Edit11 Interactive Image -->
 
----
+<a href="/cheats/assets/images/01/Edit21.png" target="_blank">
+  <img src="/cheats/assets/images/01/Edit21-236x300.png" alt="Edit Cheat Dialog 2" width="236" />
+</a>
 
-### 🧾 Manual Editing via `.cdb` File
-
-If you prefer direct editing:
-
-1. Close MiB64.
-2. Open `MiB64.cdb` in a text editor.
-3. Search for your game name and locate the cheat block.
-4. Modify the cheat line directly:
-   ```text
-   Cheat0="Infinite Lives",80123456 0009
-   ```
-
-5. Save and restart MiB64.
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: Edit11 & Edit21 Interactive Images -->
 
 ---
 
 ### 🧠 Notes
 
-- Always preserve the format: `CheatX="Name",Address Value`
-- Avoid editing Enable or Keycode cheats—they’re not needed in MiB64.
-- Use correct region identifiers to avoid mismatches.
+- You can edit both normal and option-based cheats.
+- Always confirm formatting before clicking **Update Cheat**.
+
+<a href="/cheats/assets/images/01/toedit31.png" target="_blank">
+  <img src="/cheats/assets/images/01/toedit31-236x300.png" alt="Edit Cheat Fields 1" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/toedit41.png" target="_blank">
+  <img src="/cheats/assets/images/01/toedit41-236x300.png" alt="Edit Cheat Fields 2" width="236" />
+</a>
+
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: toedit31 & toedit41 Interactive Images -->
 
 ---
 
-### 🧷 Example Cheat Modification
+### 🧪 Editing Option Cheats
 
-Original:
-```text
-Cheat1="Unlock All Levels",80123478 00FF
-```
+Option cheats can be edited the same way:
 
-Modified:
-```text
-Cheat1="Unlock All Levels + Bonus",80123478 00FF
-```
+1. Highlight the cheat.
+2. Right-click and choose **Edit Cheat**.
+3. Modify the values or labels.
+4. Click **Update Cheat**.
 
-Changes will reflect immediately in the GUI after restart.
+<a href="/cheats/assets/images/01/Edit31.png" target="_blank">
+  <img src="/cheats/assets/images/01/Edit31-236x300.png" alt="Edit Option Cheat 1" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/Edit41.png" target="_blank">
+  <img src="/cheats/assets/images/01/Edit41-236x300.png" alt="Edit Option Cheat 2" width="236" />
+</a>
+
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: Edit31 & Edit41 Interactive Images -->
 
 ---
 

@@ -6,7 +6,6 @@ parent: MiB64 Cheats
 description: Learn how to prepare and perform cheat searches in MiB64.
 ---
 
-
 ## 🔍 <a name="preparing-to-search">Preparing to Search</a>
 
 Before searching for cheats in MiB64, ensure the following:
@@ -15,11 +14,17 @@ Before searching for cheats in MiB64, ensure the following:
 - You’ve selected the correct region (NTSC or PAL).
 - You’ve enabled the Memory Pak if required.
 
-<a href="./cheats/assets/images/01/Browser5b1.png" target="_blank">
-  <img src="./cheats/assets/images/01/Browser5b1-300x259.png" alt="Cheat Search Browser" width="300" />
+<a href="/cheats/assets/images/01/Browser5b1.png" target="_blank">
+  <img src="/cheats/assets/images/01/Browser5b1-300x259.png" alt="Cheat Search Browser" width="300" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Browser5b1 Interactive Image -->
+
+To ensure live updates work correctly, disable the “Pause emulation when window is not active” option.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2rtXRwTPQ0?si=fvc71DktLhdO-yO9" title="Preparing for Cheat Search" frameborder="0" allowfullscreen></iframe>
+<p class="has-text-align-center"><strong>Maximise the above video for best viewing experience</strong></p>
+<!-- ClauseEcho: Preparing for Cheat Search Video -->
 
 ---
 
@@ -32,6 +37,10 @@ Use this method if you already know the cheat code or its effect.
 3. Click **Search for Known Cheat**.
 4. Enter the code or effect name.
 5. Test the result and save it to the database.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7y86UMKhNE?si=l-cGH3QDIlc6TPQF" title="Known Cheat Search" frameborder="0" allowfullscreen></iframe>
+<p class="has-text-align-center"><strong>Maximise the above video for best viewing experience</strong></p>
+<!-- ClauseEcho: Known Cheat Search Video -->
 
 ---
 
@@ -66,6 +75,10 @@ Use this method to discover new cheats by scanning memory.
 
 5. Perform multiple scans while changing in-game values (e.g. health, ammo).
 6. Narrow down results and test codes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vu52rZYh1WE?si=Q8Rflk92dUXqnrkI" title="Unknown Cheat Search" frameborder="0" allowfullscreen></iframe>
+<p class="has-text-align-center"><strong>Maximise the above video for best viewing experience</strong></p>
+<!-- ClauseEcho: Unknown Cheat Search Video -->
 
 ---
 

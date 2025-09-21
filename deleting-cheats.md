@@ -3,69 +3,60 @@ title: Deleting Cheats
 layout: default
 nav_order: 5
 parent: MiB64 Cheats
-description: Learn how to remove cheat codes from MiB64 using the GUI or manually.
+description: Learn how to remove cheat codes from MiB64.
 ---
 
+## 🗑️ <a name="deleting-cheats">Deleting Cheats</a>
 
-## ❌ <a name="deleting-cheats">Deleting Cheats</a>
+To delete a cheat code in MiB64:
 
-MiB64 allows you to delete cheats either through the GUI or manually via the `.cdb` file.
+1. Highlight the cheat by clicking once on it.
+2. Right-click and choose **Delete Cheat**.
+3. Confirm the deletion by pressing **Yes**.
 
----
-
-### 🧪 Deleting via GUI
-
-1. Open MiB64 and load your ROM.
-2. Go to the Cheats menu.
-3. Select the cheat you want to remove.
-4. Click **Delete Cheat**.
-
-<a href="./cheats/assets/images/01/Del21.png" target="_blank">
-  <img src="./cheats/assets/images/01/Del21-255x300.png" alt="Delete Cheat GUI" width="300" />
+<a href="/cheats/assets/images/01/toedit13.png" target="_blank">
+  <img src="/cheats/assets/images/01/toedit13-236x300.png" alt="Delete Cheat Prompt" width="236" />
 </a>
-<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
-<!-- ClauseEcho: Del21 Interactive Image -->
+
+<a href="/cheats/assets/images/01/Del21.png" target="_blank">
+  <img src="/cheats/assets/images/01/Del21-255x300.png" alt="Delete Confirmation" width="255" />
+</a>
+
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: toedit13 & Del21 Interactive Images -->
 
 ---
 
-### 🧾 Manual Deletion via `.cdb` File
+### 🧪 Deleting Option Cheats
 
-If you prefer direct editing:
+Option cheats can be deleted the same way:
 
-1. Close MiB64.
-2. Open `MiB64.cdb` in a text editor.
-3. Search for your game name and locate the cheat block.
-4. Delete the cheat line(s) you no longer want:
-   ```text
-   Cheat3="Infinite Ammo",80123490 0009
-   ```
+1. Highlight the cheat.
+2. Right-click and choose **Delete Cheat**.
+3. Confirm the deletion.
 
-5. Save and restart MiB64.
+<a href="/cheats/assets/images/01/toedit31-1.png" target="_blank">
+  <img src="/cheats/assets/images/01/toedit31-1-236x300.png" alt="Delete Option Cheat 1" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/Del31.png" target="_blank">
+  <img src="/cheats/assets/images/01/Del31-239x300.png" alt="Delete Option Cheat 2" width="239" />
+</a>
+
+<a href="/cheats/assets/images/01/Del41.png" target="_blank">
+  <img src="/cheats/assets/images/01/Del41-252x300.png" alt="Delete Option Cheat 3" width="252" />
+</a>
+
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: toedit31-1, Del31 & Del41 Interactive Images -->
 
 ---
 
 ### 🧠 Notes
 
-- Be careful not to delete the CRC or game name block.
-- Renumber remaining cheats if needed to maintain sequence.
-- Always back up your `.cdb` file before making manual changes.
-
----
-
-### 🧷 Example Cleanup
-
-Original:
-```text
-Cheat2="Unlock All Weapons",80123488 00FF
-Cheat3="Infinite Ammo",80123490 0009
-Cheat4="Invincibility",80123492 0001
-```
-
-After deleting Cheat3:
-```text
-Cheat2="Unlock All Weapons",80123488 00FF
-Cheat3="Invincibility",80123492 0001
-```
+- Deleted cheats are permanently removed from the database.
+- If you accidentally delete a cheat, you’ll need to re-enter it manually.
+- For grouped cheats, deleting a parent entry will remove all nested parts.
 
 ---
 

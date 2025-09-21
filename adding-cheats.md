@@ -3,77 +3,105 @@ title: Adding Cheats
 layout: default
 nav_order: 3
 parent: MiB64 Cheats
-description: Learn how to manually or visually add cheat codes to MiB64.
+description: Learn how to manually add new cheat codes to MiB64.
 ---
-
 
 ## ➕ <a name="adding-cheats">Adding Cheats</a>
 
-MiB64 allows you to add cheats either through the GUI or manually via the `.cdb` file.
+You can add cheats to MiB64 whether a game is loaded or not. Here's how:
 
----
+1. Highlight the game in the ROM list.
+2. Right-click and choose **Edit Cheats**.
+3. Or press `Ctrl + C` while in-game to open the Cheat Menu.
 
-### 🧪 Adding via GUI
+<a href="/cheats/assets/images/01/Browser5b1.png" target="_blank">
+  <img src="/cheats/assets/images/01/Browser5b1-300x259.png" alt="Add Cheat Browser" width="300" />
+</a>
+<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+<!-- ClauseEcho: Browser5b1 Interactive Image -->
 
-1. Open MiB64 and load your ROM.
-2. Go to the Cheats menu.
-3. Click **Add Cheat**.
-4. Enter a name and code.
-
-<a href="./cheats/assets/images/01/Add11.png" target="_blank">
-  <img src="./cheats/assets/images/01/Add11-236x300.png" alt="Add Cheat GUI" width="300" />
+<a href="/cheats/assets/images/01/Add11.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add11-236x300.png" alt="Add Cheat GUI" width="236" />
 </a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Add11 Interactive Image -->
-
-Repeat for each cheat you want to add.
-
----
-
-### 🧾 Manual Entry via `.cdb` File
-
-If you prefer direct editing:
-
-1. Close MiB64.
-2. Open `MiB64.cdb` in a text editor (e.g. Notepad).
-3. Search for your game name:
-   ```text
-   Name=Super Mario 64
-   ```
-4. Add your cheat below the existing block:
-   ```text
-   [New-CRC-C:45]
-   Name=SUPER MARIO 64 (Region)
-   Cheat0="Test Cheat",80123456 0001
-   ```
-
-5. Save and overwrite the file.
-6. Restart MiB64 and verify the cheat appears.
 
 ---
 
 ### 🧠 Notes
 
-- Do **not** include Enable or Keycode cheats—they’re only for physical devices.
-- MiB64 handles activation internally.
-- Use correct region codes:
-  - `(U)` = USA
-  - `(E)` = Europe
-  - `(J)` = Japan
-  - `(A)` = Australia
-  - `(G)` = Germany
-  - `(F)` = France
+- You can add up to **100 codes per cheat**.
+- Use the format `xxxxxxxx xxxx` with no trailing spaces.
+- If the **Add Cheat** button is greyed out, check your formatting.
+
+<a href="/cheats/assets/images/01/Add21.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add21-236x300.png" alt="Add Cheat Right-Click" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/Add31.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add31-236x300.png" alt="Add Cheat Name Field" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/Add41.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add41-236x300.png" alt="Add Cheat Code Field" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/Add51.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add51-236x300.png" alt="Bulk Code Entry" width="236" />
+</a>
+
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: Add21, Add31, Add41 & Add51 Interactive Images -->
 
 ---
 
-### 🧷 Example Cheat Format
+### 🧪 Code Extensions
 
-```text
-Cheat0="Infinite Lives",80123456 0009
-Cheat1="Unlock All Levels",80123478 00FF
+You can add modifier codes like:
+
+- `80XXXXXX 00??`
+- `81XXXXXX 0???`
+- `81XXXXXX ????`
+
+Once entered, the **Value Label** box becomes available.
+
+<a href="/cheats/assets/images/01/Add61.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add61-236x300.png" alt="Code Extension Options" width="236" />
+</a>
+
+<a href="/cheats/assets/images/01/Add71.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add71-236x300.png" alt="Modifier Code Entry" width="236" />
+</a>
+
+<p class="has-text-align-center"><strong>Click above images to enlarge</strong></p>
+<!-- ClauseEcho: Add61 & Add71 Interactive Images -->
+
+---
+
+### 🧷 Group Cheats
+
+You can group cheats like:
+
+```
+Infinite\Health\Part 1
+Infinite\Health\Part 2
 ```
 
-Each cheat must be numbered sequentially and formatted with a space between address and value.
+This creates a collapsible group in the cheat menu.
+
+<a href="/cheats/assets/images/01/Add81.png" target="_blank">
+  <img src="/cheats/assets/images/01/Add81-236x300.png" alt="Group Cheat Example" width="236" />
+</a>
+<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+<!-- ClauseEcho: Add81 Interactive Image -->
+
+To confirm the group structure, here's how it appears once added:
+
+<a href="/cheats/assets/images/01/Cheat41-1.png" target="_blank">
+  <img src="/cheats/assets/images/01/Cheat41-1-245x300.png" alt="Group Option Result" width="245" />
+</a>
+<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+<!-- ClauseEcho: Cheat41-1 Interactive Image -->
 
 ---
 

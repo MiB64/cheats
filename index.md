@@ -11,9 +11,9 @@ has_children: true
 
 ## 🎮 Welcome to MiB64 Cheats Section!
 
-## 🎮 Welcome to MiB64 Cheats Section!
-
-[![Cheat Menu](/cheats/assets/images/01/Cheat11-300x259.png)](/cheats/assets/images/01/Cheat11.png)
+<a href="/cheats/assets/images/01/Cheat11.png" target="_blank">
+  <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
+</a>
 <p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
 <!-- ClauseEcho: Using Cheats Image -->
 
