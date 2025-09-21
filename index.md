@@ -1,10 +1,11 @@
 ---
 title: MiB64 Cheats
 layout: default
-permalink: /cheats/
 nav_order: 1
 description: Welcome to the MiB64 Cheats Vault – your indexed gateway to cheat mastery.
+has_children: true
 ---
+
 
 <!-- VaultEcho: MiB64 Cheats Protocol Activated -->
 
