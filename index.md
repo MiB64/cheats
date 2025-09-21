@@ -11,10 +11,11 @@ has_children: true
 
 ## Welcome to MiB64 Cheats Section!
 <br/>
-<a href="/cheats/assets/images/01/Cheat11.png" data-lightbox="cheat-menu" data-title="MiB64 Cheat Menu">
+<div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
-</a>
-<p class="has-text-align-center"><strong>Click image to enlarge</strong></p>
+</div>
+<p class="has-text-align-center"><strong>Hover to zoom</strong></p>
+
 <!-- ClauseEcho: Using Cheats Image -->
 
 
