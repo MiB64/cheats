@@ -9,19 +9,23 @@ has_children: true
 <style>
 .zoom-on-hover {
   display: inline-block;
-  overflow: hidden;
+  overflow: visible; /* allow zoom to spill out */
 }
 
 .zoom-on-hover img {
   transition: transform 0.3s ease;
   cursor: zoom-in;
   transform-origin: center;
+  width: 100%; /* or remove width entirely */
+  max-width: none; /* prevent scaling limits */
 }
 
 .zoom-on-hover img:hover {
   transform: scale(1.5);
   z-index: 10;
+  position: relative;
 }
+
 </style>
 
 
