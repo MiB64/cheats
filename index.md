@@ -10,13 +10,11 @@ has_children: true
 <!-- VaultEcho: MiB64 Cheats Protocol Activated -->
 
 ## Welcome to MiB64 Cheats Section!
-
+<br/>
 <div class="zoom-on-hover">
   <img src="/cheats/assets/images/01/Cheat11-300x259.png" alt="Cheat Menu" width="300" />
 </div>
 <p class="has-text-align-center"><strong>Hover to zoom</strong></p>
-
-
 <!-- ClauseEcho: Using Cheats Image -->
 
 
