@@ -7,23 +7,6 @@ description: Learn how to activate and manage cheat codes in MiB64.
 ---
 
 <style>
-.zoom-on-hover {
-  display: inline-block;
-  position: relative;
-}
-
-.zoom-on-hover img {
-  transition: transform 0.3s ease;
-  cursor: zoom-in;
-  transform-origin: left center;
-  display: block;
-}
-
-.zoom-on-hover:hover img {
-  transform: scale(1.5);
-  z-index: 10;
-}
-
 .zoom-pair {
   display: flex;
   gap: 12px;
@@ -31,16 +14,30 @@ description: Learn how to activate and manage cheat codes in MiB64.
   position: relative;
 }
 
-.zoom-pair .zoom-on-hover {
+.zoom-on-hover {
+  display: inline-block;
   position: relative;
 }
 
+.zoom-on-hover img {
+  display: block;
+  cursor: zoom-in;
+  transition: transform 0.3s ease;
+  transform-origin: left center;
+  position: relative;
+  z-index: 1;
+}
+
+.zoom-on-hover:hover img {
+  transform: scale(1.5);
+}
+
 .zoom-pair .zoom-on-hover:first-child:hover img {
-  z-index: 20;
+  z-index: 9999;
 }
 
 .zoom-pair .zoom-on-hover:last-child:hover img {
-  z-index: 10;
+  z-index: 100;
 }
 </style>
 
@@ -69,7 +66,6 @@ Some cheats are grouped under expandable categories. Look for a **+** icon to re
   <div class="zoom-on-hover">
     <img src="/cheats/assets/images/01/Cheat21.png" alt="Group Cheat Collapsed" width="245" />
   </div>
-
   <div class="zoom-on-hover">
     <img src="/cheats/assets/images/01/Cheat31.png" alt="Group Cheat Expanded" width="245" />
   </div>
@@ -88,7 +84,6 @@ Some cheats offer multiple selectable values. Double-click the cheat name to ope
   <div class="zoom-on-hover">
     <img src="/cheats/assets/images/01/Cheat41.png" alt="Multi-Choice Cheat Collapsed" width="245" />
   </div>
-
   <div class="zoom-on-hover">
     <img src="/cheats/assets/images/01/Cheat51.png" alt="Multi-Choice Cheat Expanded" width="245" />
   </div>
@@ -107,7 +102,6 @@ Once the value selector opens, choose your desired option and click **OK**.
   <div class="zoom-on-hover">
     <img src="/cheats/assets/images/01/Cheat61.png" alt="Value Selector" width="236" />
   </div>
-
   <div class="zoom-on-hover">
     <img src="/cheats/assets/images/01/Cheat71.png" alt="Value Confirmation" width="236" />
   </div>
