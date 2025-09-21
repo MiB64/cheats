@@ -6,6 +6,24 @@ description: Welcome to the MiB64 Cheats Vault – your indexed gateway to cheat
 has_children: true
 ---
 
+<style>
+.zoom-on-hover {
+  display: inline-block;
+  overflow: hidden;
+}
+
+.zoom-on-hover img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  transform-origin: center;
+}
+
+.zoom-on-hover img:hover {
+  transform: scale(1.5);
+  z-index: 10;
+}
+</style>
+
 
 <!-- VaultEcho: MiB64 Cheats Protocol Activated -->
 
