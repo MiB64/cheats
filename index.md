@@ -16,7 +16,7 @@ has_children: true
   width: 300px;
   transition: transform 0.3s ease;
   cursor: zoom-in;
-  transform-origin: center center;
+  transform-origin: left center; /* zooms outward to the right */
   display: block;
 }
 
@@ -24,6 +24,7 @@ has_children: true
   transform: scale(1.5);
   z-index: 10;
 }
+
 </style>
 
 
