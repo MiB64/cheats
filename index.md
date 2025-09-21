@@ -13,17 +13,15 @@ has_children: true
 }
 
 .zoom-on-hover img {
-  width: 300px; /* fixed thumbnail */
+  width: 300px;
   transition: transform 0.3s ease;
   cursor: zoom-in;
-  transform-origin: center;
+  transform-origin: center center;
+  display: block;
 }
 
 .zoom-on-hover img:hover {
-  transform: scale(1.5); /* zooms to 450px */
-  position: absolute;
-  top: 0;
-  left: 0;
+  transform: scale(1.5);
   z-index: 10;
 }
 </style>
