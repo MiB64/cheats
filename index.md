@@ -10,18 +10,18 @@ has_children: true
 .zoom-on-hover {
   display: inline-block;
   overflow: visible; /* allow zoom to spill out */
+  position: relative;
 }
 
 .zoom-on-hover img {
+  width: 300px; /* fixed thumbnail size */
   transition: transform 0.3s ease;
   cursor: zoom-in;
   transform-origin: center;
-  width: 100%; /* or remove width entirely */
-  max-width: none; /* prevent scaling limits */
 }
 
 .zoom-on-hover img:hover {
-  transform: scale(1.5);
+  transform: scale(1.5); /* zoom beyond 300px */
   z-index: 10;
   position: relative;
 }
