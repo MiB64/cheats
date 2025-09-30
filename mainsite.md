@@ -1,7 +1,7 @@
 ---
 title: MiB64 Homepage
 nav_order: 0
-permalink: /cheats/mainsite.html
+permalink: /cheats/mainsite
 ---
 
 <p align="center">
