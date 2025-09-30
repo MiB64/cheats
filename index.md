@@ -48,6 +48,7 @@ Here you’ll find clear and concise assistance for all cheat-related operations
 ###  Quick Section Links
 
 - [MiB64 Homepage](/cheats/cheats/mainsite)
+- [MiB64 User Manual](/cheats/cheats/manual)
 - [MiB64 Cheats](./index)
 - [Using Cheats](./using-cheats)
 - [Adding Cheats](./adding-cheats)
