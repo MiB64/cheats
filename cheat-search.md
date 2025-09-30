@@ -1,7 +1,7 @@
 ---
 title: Cheat Search
 layout: default
-nav_order: 6
+nav_order: 7
 parent: MiB64 Cheats
 description: Learn how to prepare and perform cheat searches in MiB64.
 ---

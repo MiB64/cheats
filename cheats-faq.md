@@ -1,7 +1,7 @@
 ---
 title: Cheats FAQ
 layout: default
-nav_order: 7
+nav_order: 8
 parent: MiB64 Cheats
 description: Frequently asked questions about cheat codes in MiB64.
 ---

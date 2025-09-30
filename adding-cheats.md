@@ -1,7 +1,7 @@
 ---
 title: Adding Cheats
 layout: default
-nav_order: 3
+nav_order: 4
 parent: MiB64 Cheats
 description: Learn how to manually add new cheat codes to MiB64.
 ---

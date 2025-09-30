@@ -1,6 +1,6 @@
 ---
 title: MiB64 User Manual
-nav_order: 01
+nav_order: 1
 permalink: /cheats/manual
 ---
 

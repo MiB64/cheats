@@ -1,7 +1,7 @@
 ---
 title: Using Cheats
 layout: default
-nav_order: 2
+nav_order: 3
 parent: MiB64 Cheats
 description: Learn how to activate and manage cheat codes in MiB64.
 ---

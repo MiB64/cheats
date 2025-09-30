@@ -1,7 +1,7 @@
 ---
 title: MiB64 Cheats
 layout: default
-nav_order: 1
+nav_order: 2
 description: Welcome to the MiB64 Cheats Vault – your indexed gateway to cheat mastery.
 has_children: true
 ---
