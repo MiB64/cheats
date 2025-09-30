@@ -1,7 +1,7 @@
 ---
 title: MiB64 User Manual
-nav_order: 0a
-permalink: /cheats/manual.html
+nav_order: 01
+permalink: /cheats/manual
 ---
 
 <p align="center">
