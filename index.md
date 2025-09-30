@@ -47,15 +47,17 @@ Here you’ll find clear and concise assistance for all cheat-related operations
 
 ###  Quick Section Links
 
-- [Using Cheats](./using-cheats.md)
-- [Adding Cheats](./adding-cheats.md)
-- [Editing Cheats](./editing-cheats.md)
-- [Deleting Cheats](./deleting-cheats.md)
+- [MiB64 Homepage](/cheats/cheats/mainsite)
+- [MiB64 Cheats](index)
+- [Using Cheats](./using-cheats)
+- [Adding Cheats](./adding-cheats)
+- [Editing Cheats](./editing-cheats)
+- [Deleting Cheats](./deleting-cheats)
 - [Cheat Search](./cheat-search.md)
-  - [Preparing to Search](./cheat-search.md#preparing-to-search)
-  - [Known Cheat Search](./cheat-search.md#known-cheat-search)
-  - [Unknown Cheat Search](./cheat-search.md#unknown-cheat-search)
-- [Cheats FAQ](./cheats-faq.md)
+  - [Preparing to Search](./cheat-search#preparing-to-search)
+  - [Known Cheat Search](./cheat-search#known-cheat-search)
+  - [Unknown Cheat Search](./cheat-search#unknown-cheat-search)
+- [Cheats FAQ](./cheats-faq)
 
 ---
 
