@@ -13,6 +13,6 @@ permalink: /cheats/mainsite
 <!-- ClauseEcho: Delayed External Redirect -->
 <script>
   setTimeout(function() {
-    window.location.href = "https://www.mib64.net/";
+    window.location.href = "https://mib64.github.io/home";
   }, 400); // 400ms delay to allow image to load
 </script>
